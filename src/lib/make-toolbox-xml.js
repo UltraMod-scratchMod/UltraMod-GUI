@@ -493,6 +493,7 @@ const sensing = function (isInitialSetup, isStage, targetId, colors) {
         `}
         <block id="answer" type="sensing_answer"/>
         ${blockSeparator}
+        <block id="deltatime" type="sensing_deltatime"/>
         <block type="sensing_keypressed">
             <value name="KEY_OPTION">
                 <shadow type="sensing_keyoptions"/>
