@@ -93,7 +93,7 @@
     "scratch-blocks": "github:UltraMod-scratchMod/UltraMod-Blocks#develop-builds",
     "scratch-paint": "github:TurboWarp/scratch-paint#develop",
     "scratch-render": "github:TurboWarp/scratch-render#develop",
-    "scratch-vm": "github:TurboWarp/scratch-vm#develop",
+    "scratch-vm": "github:UltraMod-scratchMod/UltraMod-VM#develop",
     "style-loader": "^0.23.0",
     "text-encoding": "0.7.0",
     "to-style": "1.3.3",
